@@ -1,0 +1,20 @@
+		 Welcome Kalika Bangles Store
+ Bill Number:5879
+ Customer Name:
+ Phone Number:
+ Customer Eamil:
+ =================================================
+ Products 		 QTY 	Price 		Amout
+ =================================================
+
+ green_nonpolish 		5 	100 		500
+ green_polish 		19 	5 		95
+ nonpolish 		4 	100 		400
+ polish 		7 	400 		2800
+ polish 		76 	500 		38000
+
+ =================================================
+ Sub Amount:			Rs.41795.00
+ Tax Amount:			Rs.412.95
+ Total Amount:			Rs.42207.95
+ =================================================

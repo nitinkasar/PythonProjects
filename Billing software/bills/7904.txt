@@ -1,0 +1,14 @@
+		 Welcome Kalika Bangles Store
+ Bill Number:7904
+ Customer Name:dfdf
+ Phone Number:454
+ Customer Eamil:dfdf
+ =================================================
+ Products 		 QTY 	Price 		Amout
+ ================================================= polish 		9 	400 		3600
+
+ =================================================
+ Sub Amount:			Rs.4600.00
+ Tax Amount:			Rs.42.00
+ Total Amount:			Rs.4642.00
+ =================================================

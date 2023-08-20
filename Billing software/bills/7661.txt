@@ -1,0 +1,14 @@
+		 Welcome Kalika Bangles Store
+ Bill Number:7661
+ Customer Name:Nitin Kasar
+ Phone Number:9096397029
+ Customer Eamil:
+ =================================================
+ Products 		 QTY 	Price 		Amout
+ ================================================= green_nonpolish 		10 	140 		1400
+
+ =================================================
+ Sub Amount:			Rs.2840.00
+ Tax Amount:			Rs.27.00
+ Total Amount:			Rs.2867.00
+ =================================================
